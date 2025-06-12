@@ -1,2 +1,2 @@
 # Techdegree-responsive
-my 2nd techdegree project
+My Second techdegree project
